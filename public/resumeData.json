@@ -1,0 +1,192 @@
+{
+  "main": {
+    "name": "Ashfaq Ahmed",
+    "occupation": "ReactJS Developer && Web Developer",
+    "description": "Software Enginner by Day, Front End React Developer by Night",
+    "image": "IG_Ashfaq.jpg",
+    "bio": "My name is Ashfaq, I'm a Front End ReactJS Developer. Currently I'm working at OpenText India as a Software Engineer",
+    "contactmessage": "Get in touch with me to receive further details, freelance projects or anything else.",
+    "email": "ahmedashfaq027@gmail.com",
+    "phone": "+91 92483 04600",
+    "address": {
+      "street": "25-15, IDA Gandhinagar",
+      "city": "Hyderabad",
+      "state": "Telangana, India",
+      "zip": "500054"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/awesomeashfaq99",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ashfaq-mohammed-70367b158/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ashfaq_xo/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ahmedashfaq027",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/ahmedashfaq027",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The following are the few skills that I have",
+    "education": [
+      {
+        "school": "B V Raju Institute of Technology",
+        "degree": "Bachelor of Technology in Computer Science & Engineering",
+        "graduated": "August 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "OpenText India Pvt. Ltd.",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - Present",
+        "description": "Building Automation Project with Selenium."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "40%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Selenium",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TODO App",
+        "category": "TODO app built with ReactJS",
+        "image": "todo-app.png",
+        "url": "https://todo-ash.web.app/"
+      },
+      {
+        "title": "Recipe Search",
+        "category": "Recipe search app built with ReactJS",
+        "image": "recipe-app.png",
+        "url": "https://recipe-app-ash.web.app/"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "Covid-19 tracker with ReactJS",
+        "image": "covid-19-tracker.png",
+        "url": "https://covid-19-tracker-ash.web.app/"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS",
+        "image": "spotify-clone.png",
+        "url": "https://spotify-clone-ash.web.app/#"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS",
+        "image": "hulu-clone.jpg",
+        "url": "https://hulu-clone-ash.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb-clone.jpg",
+        "url": "https://airbnb-clone-ash.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-ash.web.app/"
+      },
+      {
+        "title": "IG Reels Clone",
+        "category": "Instagram Reels Clone built with ReactJS",
+        "image": "igreels-clone.png",
+        "url": "https://ig-reels-clone-ash.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "Google Clone built with ReactJS",
+        "image": "google-clone.png",
+        "url": "https://clone-ash.web.app/search"
+      },
+      {
+        "title": "MERN Stack Tiktok Clone",
+        "category": "Tiktok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-clone.png",
+        "url": "https://merntiktok-clone.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "If you wait until you're ready, you'll be waiting for the rest of your life.",
+        "user": "Anonymous"
+      },
+      {
+        "text": "It is not enough to do your best: you must KNOW what to do, and THEN do your best.",
+        "user": "W.Edwards Deming"
+      },
+      {
+        "text": "The most important investment you can make is in yourself.",
+        "user": "Warren Buffet"
+      }
+    ]
+  }
+}
